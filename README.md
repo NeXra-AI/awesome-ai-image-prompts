@@ -1,5 +1,7 @@
 # awesome-ai-image-prompts
 
+**🌍 [English](README.md) · [简体中文](README.zh-CN.md) · [Bahasa Melayu](README.ms.md)**
+
 > **Prompt-as-Code library** — 955 curated prompts for GPT-Image-2, Nano Banana,
 > Seedance, Qwen-VL, Gemini Imagen, and more.
 > Apache 2.0. Multi-language (zh / en / ms). **RAG-ready out of the box.**
