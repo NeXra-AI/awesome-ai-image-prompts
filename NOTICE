@@ -1,0 +1,14 @@
+awesome-ai-image-prompts
+Copyright 2026 NeXra (https://nexra-ai.co)
+
+This product includes prompts originally curated by:
+
+  - EvoLinkAI (https://github.com/EvoLinkAI) — Apache 2.0
+  - @freestylefly (https://github.com/freestylefly/awesome-gpt-image-2) — Attribution
+  - @jamez-bondos (https://github.com/jamez-bondos/awesome-gpt4o-images) — OpenAI Example
+  - youmind community (https://youmind.com) — CC BY 4.0
+  - NeXra Vision AI in-house — CC BY 4.0
+
+Per-entry attribution and license is preserved in data/prompts.json
+(`author`, `source`, `source_url`, `license` fields per entry).
+See ATTRIBUTION.md for the full breakdown.
